@@ -4,10 +4,32 @@
 
 [Banach-Hilbert Spaces, Vector Measures and Group Representations](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Banach-Hilbert%20Spaces,%20Vector%20Measures%20and%20Group%20Representations.pdf)
 
-[Mathematical Structures From Linear Algebra over Rings to Geometry with Sheaves](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Mathematical Structures From Linear Algebra over Rings to Geometry with Sheaves.pdf)
+[Mathematical Structures From Linear Algebra over Rings to Geometry with Sheaves](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Mathematical%20Structures%20From%20Linear%20Algebra%20over%20Rings%20to%20Geometry%20with%20Sheaves.pdf)
 
-[Cliﬀord algebra, geometric algebra, and applications](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Cliﬀord algebra, geometric algebra, and applications.pdf)
+[Cliﬀord algebra, geometric algebra, and applications](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Clifford%20algebra,%20geometric%20algebra,%20and%20applications.pdf)
 
 ## Programming
 
 [CSS in Depth](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/CSS%20in%20Depth.pdf)
+
+[The Well-Grounded Rubyist](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/The%20Well-Grounded%20Rubyist.pdf)
+
+[Advanced R](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/Advanced%20R.pdf)
+
+[Mathematica Programming: an advanced introduction](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/Mathematica%20programming%20an%20advanced%20introduction.pdf)
+
+[Programming Rust](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/Programming%20Rust.pdf)
+
+[JavaScript The Definitive Guide.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/JavaScript%20The%20Definitive%20Guide.pdf)
+
+[What I Wish I Knew When Learning Haskell.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/What I Wish I Knew When Learning Haskell.pdf)
+
+## CS
+
+[The Hitchhiker's Guide to Logic.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/The%20Hitchhiker%27s%20Guide%20to%20Logic.pdf)
+
+[Techniques for Searching, Parsing, and Matching.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/Techniques%20for%20Searching,%20Parsing,%20and%20Matching.pdf)
+
+[Large Language Models A Deep Dive.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/Large%20Language%20Models%20A%20Deep%20Dive.pdf)
+
+[Foundations of Machine Learning.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/Foundations%20of%20Machine%20Learning.pdf)
