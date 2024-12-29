@@ -22,7 +22,7 @@
 
 [JavaScript The Definitive Guide.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/JavaScript%20The%20Definitive%20Guide.pdf)
 
-[What I Wish I Knew When Learning Haskell.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/What I Wish I Knew When Learning Haskell.pdf)
+[What I Wish I Knew When Learning Haskell.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/What%20I%20Wish%20I%20Knew%20When%20Learning%20Haskell.pdf)
 
 ## CS
 
