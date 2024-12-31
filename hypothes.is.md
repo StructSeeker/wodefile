@@ -33,3 +33,5 @@
 [Large Language Models A Deep Dive.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/Large%20Language%20Models%20A%20Deep%20Dive.pdf)
 
 [Foundations of Machine Learning.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/Foundations%20of%20Machine%20Learning.pdf)
+
+[Vue.js 3: Design Patterns and Best Practices](https://via.hypothes.is/https://rawcdn.githack.com/StructSeeker/wodefile/82c939358ca261384a09f1dbe2600a0768461702/Programming/Vue.js%203%20Design%20Patterns%20and%20Best%20Practices.pdf)
