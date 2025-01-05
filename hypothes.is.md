@@ -6,7 +6,9 @@
 
 [Mathematical Structures From Linear Algebra over Rings to Geometry with Sheaves](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Mathematical%20Structures%20From%20Linear%20Algebra%20over%20Rings%20to%20Geometry%20with%20Sheaves.pdf)
 
-[Cliﬀord algebra, geometric algebra, and applications](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Clifford%20algebra,%20geometric%20algebra,%20and%20applications.pdf)
+[Cliﬀord algebra, geometric algebra, and applications](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Clifford%20algebra,%20geometric%20algebra,%20and%20applications.pdf)  
+
+[Manifolds, Sheaves, and Cohomology](https://rawcdn.githack.com/StructSeeker/wodefile/a489d3a35c15397794ef3d0323d6a6fcca6f66b4/Mathematics/Manifolds,%20Sheaves,%20and%20Cohomology.pdf)
 
 ## Programming
 
@@ -22,7 +24,9 @@
 
 [JavaScript The Definitive Guide.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/JavaScript%20The%20Definitive%20Guide.pdf)
 
-[What I Wish I Knew When Learning Haskell.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/What%20I%20Wish%20I%20Knew%20When%20Learning%20Haskell.pdf)
+[What I Wish I Knew When Learning Haskell.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Programming/What%20I%20Wish%20I%20Knew%20When%20Learning%20Haskell.pdf)  
+
+[Vue.js 3: Design Patterns and Best Practices](https://via.hypothes.is/https://rawcdn.githack.com/StructSeeker/wodefile/82c939358ca261384a09f1dbe2600a0768461702/Programming/Vue.js%203%20Design%20Patterns%20and%20Best%20Practices.pdf)
 
 ## CS
 
@@ -33,5 +37,3 @@
 [Large Language Models A Deep Dive.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/Large%20Language%20Models%20A%20Deep%20Dive.pdf)
 
 [Foundations of Machine Learning.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/Foundations%20of%20Machine%20Learning.pdf)
-
-[Vue.js 3: Design Patterns and Best Practices](https://via.hypothes.is/https://rawcdn.githack.com/StructSeeker/wodefile/82c939358ca261384a09f1dbe2600a0768461702/Programming/Vue.js%203%20Design%20Patterns%20and%20Best%20Practices.pdf)
