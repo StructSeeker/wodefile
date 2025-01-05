@@ -8,7 +8,7 @@
 
 [Cliﬀord algebra, geometric algebra, and applications](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Clifford%20algebra,%20geometric%20algebra,%20and%20applications.pdf)  
 
-[Manifolds, Sheaves, and Cohomology](https://rawcdn.githack.com/StructSeeker/wodefile/1be0285432823a44b6ed7bf0f61bc43562605586/Mathematics/Manifolds,%20Sheaves,%20and%20Cohomology.pdf)
+[Manifolds, Sheaves, and Cohomology](https://via.hypothes.is/https://rawcdn.githack.com/StructSeeker/wodefile/1be0285432823a44b6ed7bf0f61bc43562605586/Mathematics/Manifolds,%20Sheaves,%20and%20Cohomology.pdf)
 
 ## Programming
 
