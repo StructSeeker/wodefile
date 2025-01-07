@@ -1,14 +1,38 @@
+# This File is Deprecated
+
 ## Mathematics
+
+### 泛函分析
+
+[Banach-Hilbert Spaces, Vector Measures and Group Representations](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Banach-Hilbert%20Spaces,%20Vector%20Measures%20and%20Group%20Representations.pdf)  
+
+Convex Functional Analysis .pdf
+
+Optimization by Vector Space Methods.pdf
 
 [高阶微分](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/%E9%AB%98%E9%98%B6%E5%BE%AE%E5%88%86%EF%BC%9A%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E6%94%BE%E5%BC%83%20%E5%88%98%E6%80%9D%E9%BD%90.pdf)
 
-[Banach-Hilbert Spaces, Vector Measures and Group Representations](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Banach-Hilbert%20Spaces,%20Vector%20Measures%20and%20Group%20Representations.pdf)
+### 微分几何
 
 [Mathematical Structures From Linear Algebra over Rings to Geometry with Sheaves](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Mathematical%20Structures%20From%20Linear%20Algebra%20over%20Rings%20to%20Geometry%20with%20Sheaves.pdf)
 
 [Cliﬀord algebra, geometric algebra, and applications](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/Mathematics/Clifford%20algebra,%20geometric%20algebra,%20and%20applications.pdf)  
 
-[Manifolds, Sheaves, and Cohomology](https://via.hypothes.is/https://rawcdn.githack.com/StructSeeker/wodefile/1be0285432823a44b6ed7bf0f61bc43562605586/Mathematics/Manifolds,%20Sheaves,%20and%20Cohomology.pdf)
+[Manifolds, Sheaves, and Cohomology](https://via.hypothes.is/https://rawcdn.githack.com/StructSeeker/wodefile/1be0285432823a44b6ed7bf0f61bc43562605586/Mathematics/Manifolds,%20Sheaves,%20and%20Cohomology.pdf)  
+
+
+
+### 测度概率统计
+
+A Basic Course in Probability Theory 
+
+
+
+### 代数范畴
+
+
+
+### 
 
 ## Programming
 
@@ -30,10 +54,30 @@
 
 ## CS
 
+### PLT
+
 [The Hitchhiker's Guide to Logic.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/The%20Hitchhiker%27s%20Guide%20to%20Logic.pdf)
 
+Formal syntax and semantics of programming languages
+
+Type Theory and Functional Programming
+
+Computation and reasoning A type theory for computer science
+
+Foundations for Programming Languages
+
+
+
 [Techniques for Searching, Parsing, and Matching.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/Techniques%20for%20Searching,%20Parsing,%20and%20Matching.pdf)
+
+### Machine Learning
 
 [Large Language Models A Deep Dive.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/Large%20Language%20Models%20A%20Deep%20Dive.pdf)
 
 [Foundations of Machine Learning.pdf](https://via.hypothes.is/https://raw.githack.com/StructSeeker/wodefile/main/CS/Foundations%20of%20Machine%20Learning.pdf)
+
+Probability and Statistics for Machine Learning
+
+Data Science for Mathematicians
+
+Machine Learning A Probabilistic Perspective
