@@ -1,0 +1,23 @@
+" easy left click and to insert
+gmap I <to_insert>
+gmap Fi <easyclick><click_left><to_insert>
+imap <alt-o> <easyclick><click_left>
+
+" Allow using ctrl-' to switch between resident and insert  
+nmap <ctrl-'> <to_resident>
+imap <ctrl-'> <to_resident>
+rmap <ctrl-'> <to_insert>
+
+imap <ctrl-;> <to_command>
+
+" use v to switch between v/n gui or edi mode
+gvmap v <to_gui_normal>
+evmap v <to_edi_normal>
+
+"make common keys in normal mode also applies to visual mode
+gvmap <ctrl-m> <gridmove>
+gvmap Fh <easyclick>
+gvmap a <click_right>
+gvmap o <click_left>
+
+autocmd AppEnter *chrome*,*code* <to_resident>
